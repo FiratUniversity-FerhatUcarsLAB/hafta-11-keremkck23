@@ -1,3 +1,6 @@
+Ad Soyad : Mehmet Kerem Küçük
+    Öğr No : 250541097
+
 public class Exercise4_2 {
 
     // Main her zaman başlangıç noktasıdır (1)
