@@ -1,3 +1,6 @@
+Ad Soyad : Mehmet Kerem Küçük
+Öğr NO : 250541097
+
 public class Exercise4_3 {
 
     public static void zoop() {
@@ -22,3 +25,26 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+/* ===================================================================
+CEVAPLAR
+===================================================================
+
+SORU 1: STACK DIAGRAM (Ping ilk kez cagrilinca)
+-----------------------------------------------
+| ping (args: yok)            |  <-- Su an calisan (Active)
+|-----------------------------|
+| baffle (args: yok)          |
+|-----------------------------|
+| zoop (args: yok)            |
+|-----------------------------|
+| main (args: String[] args)  |
+|-----------------------------|
+
+
+SORU 2: CIKTI (OUTPUT)
+-----------------------------------------------
+No, I wug.
+You wugga wug.
+I wug.
+
+*/
